@@ -101,7 +101,7 @@ const I18N = {
     "form.submit": "Отправить сообщение",
     "form.success": "Спасибо! Ваше сообщение отправлено.",
     "form.error": "Пожалуйста, заполните все поля корректно.",
-    "footer.copy": "© 2026 Сысоева Олеся. Все права защищены."
+    "footer.copy": "© 2021 Сысоева Олеся. Все права защищены."
   },
   en: {
     "meta.title": "Olesya Sysoeva | Psychology Instructor",
@@ -202,7 +202,7 @@ const I18N = {
     "form.submit": "Send message",
     "form.success": "Thank you! Your message has been sent.",
     "form.error": "Please fill in all fields correctly.",
-    "footer.copy": "© 2026 Olesya Sysoeva. All rights reserved."
+    "footer.copy": "© 2021 Olesya Sysoeva. All rights reserved."
   }
 };
 
