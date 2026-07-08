@@ -99,7 +99,7 @@ const I18N = {
     "form.message": "Сообщение",
     "form.messagePlaceholder": "Кратко опишите ваш запрос",
     "form.submit": "Отправить сообщение",
-    "form.success": "Спасибо! Это демо-форма — сообщение сохранено локально.",
+    "form.success": "Спасибо! Ваше сообщение отправлено.",
     "form.error": "Пожалуйста, заполните все поля корректно.",
     "footer.copy": "© 2026 Сысоева Олеся. Все права защищены.",
     "footer.demo": "Демонстрационный сайт для профессиональной презентации."
@@ -201,7 +201,7 @@ const I18N = {
     "form.message": "Message",
     "form.messagePlaceholder": "Briefly describe your request",
     "form.submit": "Send message",
-    "form.success": "Thank you! This is a demo form — your message was handled locally.",
+    "form.success": "Thank you! Your message has been sent.",
     "form.error": "Please fill in all fields correctly.",
     "footer.copy": "© 2026 Olesya Sysoeva. All rights reserved.",
     "footer.demo": "Demonstration website for professional presentation."
