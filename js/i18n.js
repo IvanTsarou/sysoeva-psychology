@@ -24,7 +24,7 @@ const I18N = {
     "hero.stat1.label": "Целевая аудитория",
     "hero.stat2.value": "РГПУ",
     "hero.stat2.label": "Им. А.И. Герцена",
-    "hero.stat3.value": "Академ.",
+    "hero.stat3.value": "Академические",
     "hero.stat3.label": "Стандарты обучения",
     "hero.imageAlt": "Профессиональный портрет преподавателя",
     "about.eyebrow": "Обо мне",
